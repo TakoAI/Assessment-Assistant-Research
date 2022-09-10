@@ -40,7 +40,7 @@ Using MSCOCO dataset, we select each category, and calculate these data:
  - Target Value
    - Classification false positive
    - Classification false negative
-   - Area of Coverage
+   - Mean Average Precision (mAP)
    
 ### Model Evaluation
 
