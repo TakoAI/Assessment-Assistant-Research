@@ -38,8 +38,7 @@ Using MSCOCO dataset, we select each category, and calculate these data:
    - Can there have multiple targets in an image (Yes/No)
    - Is there similar non-target objects in an image (Yes/No)
  - Target Value
-   - Classification false positive
-   - Classification false negative
+   - Classification false positive, false negative, true positive
    - Mean Average Precision (mAP)
    
 ### Model Evaluation
